@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First Freedom Run 2024
-subtitle: Register for First Tranquility Freedom Run
+title: Guide to a Successful Running Journey
+subtitle: Run Your Way to Better Health
 excerpt_image: /assets/images/banners/freedomrun2024.png
 categories: Fitness and Health
 tags: [running, fitness, health, endurance, training, workout, running tips, running for beginners, running shoes, strength training, recovery, hydration]
