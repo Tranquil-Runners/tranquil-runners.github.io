@@ -21,7 +21,9 @@ A proper warm-up is crucial for preparing your muscles and joints for the demand
 
 * **Pre-run warm-up drills:** Focus on exercises that mimic running movements, such as high knees, butt kicks, arm circles, and leg swings.
   
-[![Video](http://img.youtube.com/vi/wUZf8smK1h8/0.jpg)](http://www.youtube.com/watch?v=wUZf8smK1h8)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUZf8smK1h8?si=JpuggfkCHDbxyxY_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ### Cool-down: Wind Down and Recover
 
