@@ -2,7 +2,7 @@
 layout: post
 title: Boost Your Running Cadence
 subtitle: Quick Steps, Faster Pace
-excerpt_image: /assets/images/banners/cadence.jpeg
+excerpt_image: /assets/images/cadence.jpeg
 categories: Running
 tags: [running cadence, running form, running tips, running efficiency, running workout, running technique]
 top: 3
