@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /assets/
+Sitemap: https://tranquil-runners.github.io/sitemap.xml
