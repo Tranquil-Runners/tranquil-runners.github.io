@@ -10,14 +10,16 @@ top: 1
 
 ![banner](/assets/images/banners/freedomrun2024.png)
 
+## First Freedom Run 2024
 This Independence Day, let’s celebrate our freedom with a dash of fitness and a whole lot of fun! Join us on August 11th for the Freedom Run and make this Independence Day one to remember. Whether you're a kid, a teen, an adult, or a young-at-heart senior, we've got a category just for you!
 
-Categories:
+### Categories:
 - 👶 Kids Category: Little legs, big dreams!
 - 🧑‍🎤 Teens Category: Run like you’ve got nothing to lose!
 - 👨‍👩‍👧‍👦 Open Category: For all the go-getters out there!
 - 👴👵 Senior Citizens Category: Because age is just a number!
 
+### Venue 
 Date: August 11th
 Time: 6:30 AM
 Starting Point: Namma Tranquility Court

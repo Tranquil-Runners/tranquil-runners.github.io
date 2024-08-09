@@ -21,10 +21,15 @@ To avoid plateaus, mix up your routine with different types of runs. Easy runs b
 
 Additional tips for a well-rounded running routine:
 
-- Incorporate strength training: Exercises like push-ups, squats, and lunges strengthen your core and legs, reducing injury risk and improving running efficiency.
-- Vary your running surfaces: Running on different terrains challenges your muscles and prevents overuse injuries.
-- Invest in good running shoes: Proper footwear is essential for comfort and preventing injuries.
-- Stay hydrated: Especially during longer runs, replenish electrolytes with sports drinks.
-- Prioritize recovery: Avoid consecutive long runs and allow ample time for rest.
+### Incorporate strength training
+Exercises like push-ups, squats, and lunges strengthen your core and legs, reducing injury risk and improving running efficiency.
+### Vary your running surfaces
+Running on different terrains challenges your muscles and prevents overuse injuries.
+### Invest in good running shoes
+Proper footwear is essential for comfort and preventing injuries.
+### Stay hydrated
+Especially during longer runs, replenish electrolytes with sports drinks.
+### Prioritize recovery
+Avoid consecutive long runs and allow ample time for rest.
 
 Remember, running should be enjoyable. Don't push yourself too hard or compare yourself to others. Listen to your body, celebrate your progress, and most importantly, stay consistent.
