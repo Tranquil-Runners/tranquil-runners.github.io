@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Workout For Runners
-subtitle: Elevate Your Running Game -A Comprehensive Workout Guide
+subtitle: Elevate Your Running Game - A Comprehensive Workout Guide
 excerpt_image: /assets/images/workout.jpeg
 categories: ["Running"]
 tags: [running workout, strength training for runners, runner's workout, mobility for runners, cool down, warm up, breathing exercises, foam rolling]
@@ -65,7 +65,7 @@ Foam rolling is a valuable tool for releasing muscle tension, improving flexibil
 * **Foamrolling for runners:** Learn how to use a foam roller to target specific muscle groups and alleviate soreness.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TW_dRlDyvC8?si=KnMMq5PplQ_KwgPC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-###Mobility and Activation: Unlock Your Potential
+### Mobility and Activation: Unlock Your Potential
 
 Mobility and activation exercises help improve flexibility, range of motion, and muscle activation, leading to better running form and injury prevention.
 
