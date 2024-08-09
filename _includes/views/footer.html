@@ -1,21 +1,59 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="{{ " /" | relative_url }}"></data>
+<style>
+  /* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
 
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+.follow-us {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.follow-us a {
+  margin: 0 10px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .follow-us {
+    flex-wrap: wrap;
+  }
+}
+
+</style>
   <div class="wrapper">
+    <div class="follow-us">
+      <a href="https://www.instagram.com/tranquil_runner?igsh=MWQ3emg1N25mZXVr" class="fa fa-brands fa-instagram fa-fw"></a>
+      <a href="https://www.strava.com/clubs/1233216" class="fa fa-brands fa-strava fa-fw"></a>
+      <a href="https://chat.whatsapp.com/CQ8wkoXT23ACHITpyCGR7e" class="fa fa-brands fa-whatsapp"></a>
+    </div>
     <div class="site-footer-inner">
-        {%- assign currentYear = 'now' | date: "%Y" -%}
-        {%- assign copyright = site.copyright
-            | replace: '{currentYear}', currentYear
-            | replace: '{author}', site.author
-            | replace: '(c)', '&copy;'
-            | replace: '(p)', '℗'
-            | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
-        -%}
+      {%- assign currentYear = 'now' | date: "%Y" -%}
+      {%- assign copyright = site.copyright
+      | replace: '{currentYear}', currentYear
+      | replace: '{author}', site.author
+      | replace: '(c)', '&copy;'
+      | replace: '(p)', '℗'
+      | replace: '(cleft)', '<span class="copyleft">&copy;</span>'
+      -%}
       <div>{{ copyright }}</div>
       <div>Powered by <a title="Jekyll is a simple, blog-aware, static site
       generator." href="https://jekyllrb.com/">Jekyll</a> &amp; <a title="Yat, yet
       another theme." href="https://github.com/jeffreytse/jekyll-theme-yat">Yat Theme</a>.</div>
-      <div class="footer-col rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></div>
+      <div class="footer-col rss-subscribe">Subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></div>
     </div>
   </div>
 </footer>
