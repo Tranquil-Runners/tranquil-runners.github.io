@@ -3,11 +3,11 @@ layout: post
 title: Guide to a Successful Running Journey
 subtitle: Run Your Way to Better Health
 excerpt_image: /assets/images/runningjourney.jpeg
-categories: Fitness and Health
+categories: "Fitness and Health"
 tags: [running, fitness, health, endurance, training, workout, running tips, running for beginners, running shoes, strength training, recovery, hydration]
 top: 3
 ---
-![banner](/assets/images/banners/runningjourney.jpeg)
+![banner](/assets/images/runningjourney.jpeg)
 
 # Consistency is Key: Your Guide to a Successful Running Journey
 

@@ -8,7 +8,7 @@ tags: [running cadence, running form, running tips, running efficiency, running 
 top: 3
 ---
 
-![banner](/assets/images/banners/cadence.jpeg)
+![banner](/assets/images/cadence.jpeg)
 
 
 # Find Your Rhythm: Boost Your Running Cadence
