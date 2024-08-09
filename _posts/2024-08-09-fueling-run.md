@@ -2,12 +2,12 @@
 layout: post
 title: Fueling Your Runs
 subtitle: The Ultimate Guide to Eating and Drinking for Optimal PerformanceEating and Drinking for Optimal Performance
-excerpt_image: /assets/images/banners/fuel.jpeg
+excerpt_image: /assets/images/fuel.jpeg
 categories: Running
 tags: [running nutrition, pre-run nutrition, post-run nutrition, hydration, energy gels, sports nutrition, running fuel, endurance, recovery, muscle repair]
 top: 3
 ---
-![banner](/assets/images/banners/fuel.jpeg)
+![banner](/assets/images/fuel.jpeg)
 ## Fueling Your Runs
 The Ultimate Guide to Eating and Drinking for Optimal PerformanceEating and Drinking for Optimal Performance
 
