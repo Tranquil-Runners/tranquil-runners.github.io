@@ -30,14 +30,20 @@ A proper warm-up is crucial for preparing your muscles and joints for the demand
 Cooling down after your run helps reduce muscle soreness, improve flexibility, and aid in recovery.
 
 * **Cool Down For Runners:** Prioritize static stretches to lengthen your muscles and improve flexibility. Incorporate exercises like hamstring stretches, quad stretches, and calf stretches.
+  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6DgTeOvfp6g?si=Ks9cxpp4fLB8ye-J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Strength Training: Build a Stronger Runner
 
 Strength training is essential for runners to enhance power, prevent injuries, and improve running economy.
 
 * **Whole Body Strength for Runners:** Develop overall strength and balance with exercises that target major muscle groups.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/uoCNUha1gmA?si=xXQFK93QKGfk2_Iv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 * **Strength For Runners:** Focus on exercises specifically designed to improve running performance, such as squats, lunges, and core work.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4QM7rOX3BsA?si=yBecsmChVlwokK0j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * **Runners 360 strength training:** Explore a holistic approach to strength training that covers all aspects of running fitness.
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tHiY-b1PqeI?si=F7_lnqYVpenTboDU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 * **Strength Training for Runners:** Find detailed workout plans tailored to the needs of runners.
 * **Strength & HIIT for Runners:** Combine strength training with high-intensity interval training for maximum results.
 * **Strength and Stability for Runners:** Improve core stability and balance to enhance running form and prevent injuries.
