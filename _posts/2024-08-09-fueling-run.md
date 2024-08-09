@@ -4,7 +4,7 @@ title: Fueling Your Runs
 subtitle: The Ultimate Guide to Eating and Drinking for Optimal PerformanceEating and Drinking for Optimal Performance
 excerpt_image: /assets/images/banners/fuel.jpeg
 categories: Running
-tags: [unning nutrition, pre-run nutrition, post-run nutrition, hydration, energy gels, sports nutrition, running fuel, endurance, recovery, muscle repair]
+tags: [running nutrition, pre-run nutrition, post-run nutrition, hydration, energy gels, sports nutrition, running fuel, endurance, recovery, muscle repair]
 top: 3
 ---
 ![banner](/assets/images/banners/fuel.jpeg)
@@ -24,6 +24,7 @@ The key to successful pre-run nutrition is to consume a balanced meal or snack t
   * Whole-grain toast with avocado
   * Energy bars or gels
 * **Hydration:** Drink plenty of water (around 0.5 liters) 2-3 hours before your run. This will help you stay hydrated and ensure optimal performance.
+
 ### Fueling During Your Run
 
 For long runs (longer than an hour), fueling during your run is crucial to maintain energy levels and prevent bonking. Here are some tips:
@@ -31,6 +32,7 @@ For long runs (longer than an hour), fueling during your run is crucial to maint
 * **Bananas:** Bananas are a great source of carbohydrates and potassium, making them an ideal fuel for long runs.
 * **Electrolytes:** Keep sipping on electrolyte-rich drinks or sports drinks to replenish essential minerals lost through sweat.
 * **Energy gels or chews:** Consider using energy gels or chews for quick bursts of energy. Experiment with different brands to find what works best for you.
+
 ### Post-Run Recovery
 
 After your run, it's essential to refuel your body to aid in muscle repair and replenish glycogen stores. Here's what to do:
@@ -41,6 +43,7 @@ After your run, it's essential to refuel your body to aid in muscle repair and r
   * Tava roti/paratha with peanut butter
   * Chicken salad sandwich on tava roti/paratha bread
   * Chocolate milk
+
 ### Finding Your Optimal Fueling Strategy
 
 Remember, everyone's body is different, and what works for one runner may not work for another. Experiment with different foods and timing to find your optimal fueling strategy. Keep a running journal to track your food intake, energy levels, and performance. This will help you identify patterns and make adjustments as needed.
