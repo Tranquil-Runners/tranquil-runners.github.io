@@ -8,7 +8,7 @@ tags: [LHR training, low heart rate running, easy running, aerobic running, endu
 top: 3
 ---
 
-![banner](/assets/images/lhr.jpeg.png)
+![banner](/assets/images/lhr.jpeg)
 
 ## LHR Training: Unlock Your Running Potential
 
