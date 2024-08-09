@@ -23,6 +23,7 @@ Here are some tips to help you find your optimal running cadence:
 - Utilize a metronome: Determine your current cadence by counting your steps for 30 seconds and multiplying by 2. Then, set the metronome slightly faster (5-10%) and try to match its pace.
 - Create a motivating playlist: Choose music with a beats-per-minute (BPM) close to your target cadence to help you maintain a consistent pace.
 - Practice running strides: Incorporate strides into your workouts to improve leg turnover and quicken your cadence.
+
 Remember, increasing your cadence takes time and practice. Start gradually and listen to your body. With consistent effort, you'll notice improvements in your running efficiency and overall performance.
 
 
