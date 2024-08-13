@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: TRANQUIL RUNNERS
+title: TRANQUIL RUNNERS CLUB
 email: tranquil-runners@gmail.com
 author: GitHub User
 
@@ -42,11 +42,11 @@ author: GitHub User
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description: "Welcome to Tranquil Runners Group. We do group runs during weekends in PT and around."
+description: "Recreational runners based in Prestige tranquility"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tranquil-runners.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-favicon: "" # the favicon for your site
+favicon: "/favicon.ico" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -57,7 +57,7 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: true
 
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
@@ -67,7 +67,7 @@ yat:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: true
 
 # If you want to change site language, you can set lang option
 # lang: "en"  # default lang is en
@@ -157,11 +157,11 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "TRANQUIL RUNNERS CLUB"
+    subheading: "Recreational runners based in Prestige tranquility"
+    banner: "/assets/images/banners/ptrunners.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -212,8 +212,8 @@ yat:
 #     color: "#bbb"
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+disqus:
+  shortname: "Your Disqus username"
 
 # Gitment comments
 # gitment:
@@ -245,5 +245,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-spaceship
-  - jekyll-sitemap
+  - jekyll-spaceship  

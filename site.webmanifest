@@ -1,0 +1,54 @@
+{
+    "name": "Tranquil Runners Club",
+    "short_name": "TRC",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/assets/images/pwa/phone1.png",
+            "sizes": "371x817",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Home page"
+        },
+        {
+            "src": "/assets/images/pwa/phone2.png",
+            "sizes": "371x817",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Blog Post"
+        },
+        {
+            "src": "/assets/images/pwa/desktop1.png",
+            "sizes": "1892x928",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Home page"
+        },
+        {
+            "src": "/assets/images/pwa/desktop2.png",
+            "sizes": "1892x928",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Blog Post"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "lang": "en-US",
+    "start_url": "/",
+    "description": "Run better with us! Our local running community offers expert advice on cadence, fueling, injury prevention, and LHR training. Join us for motivation, guidance, and workouts to reach your running goals.",
+    "scope": "/",
+    "orientation": "any"
+}
